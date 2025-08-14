@@ -5,5 +5,3 @@ function Confirmation() {
     <div>Confirmation</div>
   )
 }
-
-export default page
